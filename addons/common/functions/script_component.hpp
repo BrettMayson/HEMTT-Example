@@ -1,0 +1,1 @@
+#include "\z\TST\addons\common\script_component.hpp"

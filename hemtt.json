@@ -1,0 +1,8 @@
+{
+  "name": "Test Mod",
+  "prefix": "TST",
+  "author": "SynixeBrett",
+  "files": [
+    "mod.cpp"
+  ]
+}
