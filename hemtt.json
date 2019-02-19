@@ -4,5 +4,6 @@
   "author": "SynixeBrett",
   "files": [
     "mod.cpp"
-  ]
+  ],
+  "exclude": []
 }
